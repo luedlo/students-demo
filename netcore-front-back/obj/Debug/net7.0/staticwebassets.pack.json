@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LEVISTRAUUS\\Desktop\\allinone\\NetCore-Front-Back\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LEVISTRAUUS\\Desktop\\allinone\\NetCore-Front-Back\\wwwroot\\assets\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\LEVISTRAUUS\\Desktop\\allinone\\NetCore-Front-Back\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\LEVISTRAUUS\\Desktop\\allinone\\NetCore-Front-Back\\wwwroot\\site.css",
+      "PackagePath": "staticwebassets\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LEVISTRAUUS\\Desktop\\allinone\\NetCore-Front-Back\\wwwroot\\site.js",
+      "PackagePath": "staticwebassets\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.StudentsApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.StudentsApi.props",
+      "PackagePath": "build\\StudentsApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentsApi.props",
+      "PackagePath": "buildMultiTargeting\\StudentsApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.StudentsApi.props",
+      "PackagePath": "buildTransitive\\StudentsApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

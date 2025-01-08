@@ -1,0 +1,1155 @@
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/StudentsApi.csproj.AssemblyReference.cache
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/StudentsApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/StudentsApi.AssemblyInfoInputs.cache
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/StudentsApi.AssemblyInfo.cs
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/StudentsApi.csproj.CoreCompileInputs.cache
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/StudentsApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/StudentsApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/appsettings.json
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/StudentsApi
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/StudentsApi.deps.json
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/StudentsApi.runtimeconfig.json
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/StudentsApi.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/StudentsApi.pdb
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Humanizer.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/MessagePack.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/MessagePack.Annotations.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/MySql.Data.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Ubiety.Dns.Core.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/MySql.Data.EntityFrameworkCore.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/MySqlConnector.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/NuGet.Common.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Renci.SshNet.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/SshNet.Security.Cryptography.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.CodeDom.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/System.Xml.XPath.XmlDocument.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/staticwebassets/msbuild.StudentsApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/staticwebassets/msbuild.build.StudentsApi.props
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.StudentsApi.props
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.StudentsApi.props
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/scopedcss/bundle/StudentsApi.styles.css
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/StudentsApi.csproj.CopyComplete
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/StudentsApi.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/refint/StudentsApi.dll
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/StudentsApi.pdb
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/StudentsApi.genruntimeconfig.cache
+/Users/levistrauus/Desktop/Charly Dickens/StudentsApi/obj/Debug/net7.0/ref/StudentsApi.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/appsettings.Development.json
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/appsettings.json
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/StudentsApi
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/StudentsApi.deps.json
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/StudentsApi.runtimeconfig.json
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/StudentsApi.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/StudentsApi.pdb
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Azure.Core.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Azure.Identity.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Humanizer.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/MessagePack.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/MessagePack.Annotations.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/MySql.Data.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Ubiety.Dns.Core.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/MySql.Data.EntityFrameworkCore.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/MySqlConnector.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/NuGet.Common.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Renci.SshNet.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/SshNet.Security.Cryptography.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.CodeDom.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/System.Xml.XPath.XmlDocument.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/StudentsApi.csproj.AssemblyReference.cache
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/StudentsApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/StudentsApi.AssemblyInfoInputs.cache
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/StudentsApi.AssemblyInfo.cs
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/StudentsApi.csproj.CoreCompileInputs.cache
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/StudentsApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/StudentsApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/staticwebassets/msbuild.StudentsApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/staticwebassets/msbuild.build.StudentsApi.props
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.StudentsApi.props
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.StudentsApi.props
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/staticwebassets.build.json
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/staticwebassets.development.json
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/scopedcss/bundle/StudentsApi.styles.css
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/StudentsApi.csproj.CopyComplete
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/StudentsApi.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/refint/StudentsApi.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/StudentsApi.pdb
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/StudentsApi.genruntimeconfig.cache
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/obj/Debug/net7.0/ref/StudentsApi.dll
+/Users/levistrauus/Desktop/Charly/NetCore-Front-Back/bin/Debug/net7.0/StudentsApi.staticwebassets.runtime.json
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\appsettings.json
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.staticwebassets.runtime.json
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.exe
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.deps.json
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.runtimeconfig.json
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.pdb
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\MessagePack.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\MessagePack.Annotations.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Renci.SshNet.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\SshNet.Security.Cryptography.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.csproj.AssemblyReference.cache
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.AssemblyInfoInputs.cache
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.AssemblyInfo.cs
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.csproj.CoreCompileInputs.cache
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets\msbuild.StudentsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentsApi.props
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentsApi.props
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentsApi.props
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\scopedcss\bundle\StudentsApi.styles.css
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.csproj.CopyComplete
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\refint\StudentsApi.dll
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.pdb
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.genruntimeconfig.cache
+C:\Users\Kairos.luis\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\ref\StudentsApi.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\appsettings.json
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.staticwebassets.runtime.json
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.exe
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.deps.json
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.runtimeconfig.json
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\StudentsApi.pdb
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Humanizer.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\MessagePack.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\MessagePack.Annotations.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Renci.SshNet.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\SshNet.Security.Cryptography.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.csproj.AssemblyReference.cache
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.AssemblyInfoInputs.cache
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.AssemblyInfo.cs
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.csproj.CoreCompileInputs.cache
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets\msbuild.StudentsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentsApi.props
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentsApi.props
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentsApi.props
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\scopedcss\bundle\StudentsApi.styles.css
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.csproj.CopyComplete
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\refint\StudentsApi.dll
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.pdb
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\StudentsApi.genruntimeconfig.cache
+C:\Users\LEVISTRAUUS\Desktop\allinone\NetCore-Front-Back\obj\Debug\net7.0\ref\StudentsApi.dll
